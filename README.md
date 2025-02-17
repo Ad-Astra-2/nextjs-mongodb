@@ -1,5 +1,5 @@
 ## Tutorial: Setting up Next.js 15 and MongoDB
 
-This repository is part of the tutorial article: 
+Article: https://medium.com/@valsoft/tutorial-setting-up-next-js-15-and-mongodb-4b648043d165
 
 
